@@ -1,6 +1,6 @@
 # openrouter.c
 Message the OpenRouter API in C
-# Compile:
+### Compile:
     gcc openrouter.c -o openrouter -lcurl -ljson-c
-# Run:
+### Run:
     ./openrouter
